@@ -1,6 +1,6 @@
 # Ethical Hacking: Fundamentals and Methodologies
 
-🌐 [Leer en español](README.es.md) 🌐 [Read in English](README.md)
+🌐 [English](README.md) | [Spanish](README.es.md)
 
 ## What is ethical hacking?
 
