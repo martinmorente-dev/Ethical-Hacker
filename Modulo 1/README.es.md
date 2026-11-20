@@ -1,6 +1,6 @@
 # Ethical Hacking: Fundamentos y Metodologías
 
-🌐 [Inglés](README.md) | [Español](README.es.md) | [Volver](https://github.com/martinmorente-dev/Cybersecurity)
+🌐 [Inglés](README.md) | [Español](README.es.md) | [Volver](https://github.com/martinmorente-dev/Ethical-Hacker)
 
 ## ¿Qué es el hacking ético?
 
