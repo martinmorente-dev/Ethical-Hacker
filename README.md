@@ -15,7 +15,7 @@ Notes from my Ethical Hacker course (Cisco Networking Academy).
 | 1 | [Introduction](<Modulo 1/README.md>) | Finished |
 
 ## Labs
-My hands-on practice lives in a separate repository: **[Ethical Hacker Labs](https://github.com/martinmorente-dev/Cisco-CyberOps-Labs)**
+My hands-on practice lives in a separate repository: **[Ethical Hacker Labs](https://github.com/martinmorente-dev/Ethical-Hacker-Labs)**
 
 ## ⚠️ Disclaimer
 Personal study notes. I don't reproduce the official course material, which belongs to Cisco.
