@@ -5,20 +5,18 @@
 
 # Cisco Ethical Hacker · Notes
 
-Notes from my CyberOps Associate course (Cisco Networking Academy), written in my own words.
+Notes from my Ethical Hacker course (Cisco Networking Academy).
 
-**Status:** In progress (expected: 31/06/2027 ) · Progress: Module [3] of [28]
+**Status:** In progress (expected: 31/06/2027 ) · Progress: Module [1] of [10]
 
 ## Modules
 
 | Module | Topic | Status |
 |---|---|---|
-| 1 | [The Danger](<Modulo 1/README.md>) | Finished |
-| 2 | [Fighters in the War Against Cybercrime](<Modulo 2/README.md>) | Finished |
-| 3 | [Windows Operating System](<Modulo 3/README.md>) | In-Progress |
+| 1 | [Introduction](<Modulo 1/README.md>) | In Progress |
 
 ## Labs
-My hands-on practice lives in a separate repository: **[Cyberops Labs](https://github.com/martinmorente-dev/Cisco-CyberOps-Labs)**
+My hands-on practice lives in a separate repository: **[Ethical Hacker Labs](https://github.com/martinmorente-dev/Ethical-Hacker-Labs)**
 
 ## ⚠️ Disclaimer
 Personal study notes. I don't reproduce the official course material, which belongs to Cisco.
