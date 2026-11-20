@@ -12,7 +12,7 @@ Notes from my Ethical Hacker course (Cisco Networking Academy).
 
 | Module | Topic | Status |
 |---|---|---|
-| 1 | [Introduction](<Modulo 1/README.md>) | In Progress |
+| 1 | [Introduction](<Modulo 1>) | In Progress |
 
 ## Labs
 My hands-on practice lives in a separate repository: **[Ethical Hacker Labs](https://github.com/martinmorente-dev/Ethical-Hacker-Labs)**
