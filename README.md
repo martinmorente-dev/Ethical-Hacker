@@ -1,7 +1,6 @@
 🌐 [English](README.md) | [Spanish](README.es.md) | [Go back](https://github.com/martinmorente-dev/Cybersecurity)
 
-![Course](https://img.shields.io/badge/Cisco-CyberOps%20Associate-1BA0D7?logo=cisco&logoColor=white)
-![Status](https://img.shields.io/badge/status-in%20progress-yellow)
+![Course](https://img.shields.io/badge/Cisco-Ethical%20Hacker-1BA0D7?logo=cisco&logoColor=white)![Status](https://img.shields.io/badge/status-in%20progress-yellow)
 
 # Cisco Ethical Hacker · Notes
 
